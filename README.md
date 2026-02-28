@@ -13,3 +13,6 @@ Basic Verilog HDL implementation of fundamental logic gates and adder circuits i
 - XNOR Gate
 - Half Adder
 - Full Adder
+
+This repository is created as part of my learning 
+in Digital Electronics and Verilog HDL.
