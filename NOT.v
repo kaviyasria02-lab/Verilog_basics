@@ -4,6 +4,7 @@ module notlogic(A,B);
   assign B=~A;
 endmodule
 
+
 #testbench
 
 module notlogic_tb;
